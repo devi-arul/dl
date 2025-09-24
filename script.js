@@ -1,5 +1,5 @@
 // Configuration - Update these URLs when you host on GitHub
-const GITHUB_REPO_URL = 'https://raw.githubusercontent.com/devi-arul/dl/tree/main/programs';
+const GITHUB_REPO_URL = 'https://raw.githubusercontent.com/devi-arul/dl/main/programs/';
 
 // Function to download files
 async function downloadFile(filename, programName) {
@@ -199,6 +199,4 @@ your-repo/
     ├── calculator.py
     ├── Uncertainity Curve prg6.ipynb
     └── ... (other program files)
-
 `);
-
